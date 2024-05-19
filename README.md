@@ -6,4 +6,4 @@ How it works?
 1. Go to `core`
 2. Put your wallets in `wallets.txt`
 3. Run `main.py`
-4. Then, check `core/result` 
+4. Then, check `core/result.txt` 
